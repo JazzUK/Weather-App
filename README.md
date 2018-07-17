@@ -1,8 +1,8 @@
 # Weather-App
 Weather app by using Okhttp for request to OpenWeatherAPI, and displaying the answer by reading it with org.json*API
 This app is made to get the current weather of the given city. App shows several kinds of 
-data, such as the descryption of the weather (sunny, clear sky, rainy and etc.), humidity
-(in persentage), and of course the temperature and  the name of the city, date and the time.
+data, such as the descryption of the weather (for example sunny, clear sky, rainy and etc.),
+humidity(in percentage), and of course the temperature and  the name of the city, date and the time.
 
 **Guide for Beginners:**
 This is the first app which I made, and for the first time I used Android Studio. To tell the
